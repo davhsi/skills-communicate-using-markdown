@@ -4,3 +4,7 @@
 ``` go
 fmt.Println("Hello World")
 ```
+
+- [x] Complete all the prerequisites
+- [ ] Apply for GitHub Advanced Security voucher
+- [ ] Finish Exam and earn certificate
